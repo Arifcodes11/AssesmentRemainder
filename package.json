@@ -1,0 +1,14 @@
+{
+  "name": "remainder-assesment",
+  "version": "0.0.0",
+  "description": "creating remainder using typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "author": "Arif",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  }
+}
